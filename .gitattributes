@@ -1,0 +1,2 @@
+*.obj filter=lfs diff=lfs merge=lfs -text
+Assets/art/set-of-cardboard-boxes/Cardboard_boxes_1_Normal.png filter=lfs diff=lfs merge=lfs -text
